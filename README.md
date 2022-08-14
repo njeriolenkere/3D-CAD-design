@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta name="google-site-verification" content="QcZ8Bkl3bi8rfRzGh2US2C6z6djaIYuVnK4mccn8ZmU" /> </head>
+<meta name="google-site-verification" content="QcZ8Bkl3bi8rfRzGh2US2C6z6djaIYuVnK4mccn8ZmU" /> 
 <meta name="Njeri Olenkere" content="Design 3d in Fusion360.">
 <meta name="keywords" content="3d,fussion360,cad,design">
-
+</head>
 <body></body>
 </html>
 
